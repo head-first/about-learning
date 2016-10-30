@@ -30,7 +30,7 @@
 
 7.克隆完成后，找到你所克隆的位置，找到名为你的仓库名的那个文件夹，将你的代码粘贴进去
  
-![copy](https://github.com/head-first/about-learning/blob/master/git%20using/image/8.png)
+![copy](https://github.com/head-first/about-learning/blob/master/git%20using/image/8.jpg)
 
 8.打开你的客户端，就会发现有变化了，然后把你的代码提交上去
 
