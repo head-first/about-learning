@@ -12,7 +12,7 @@
 
 ![then](https://github.com/head-first/about-learning/blob/master/git%20using/image/3.png)
 
-3.进入http://non-you.com/GitHubSetup.exe ，下载客户端
+3.进入http://non-you.com/github.rar ，下载客户端
 
 ![download](https://github.com/head-first/about-learning/blob/master/git%20using/image/4.png)
 
