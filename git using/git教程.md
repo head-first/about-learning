@@ -12,7 +12,11 @@
 
 ![then](https://github.com/head-first/about-learning/blob/master/git%20using/image/3.png)
 
+<<<<<<< HEAD
 3.进入https://desktop.github.com/ 下载在线安装包，或者点击http://non-you.com/github.rar 下载离线安装包 ，下载客户端
+=======
+3.进入http://non-you.com/github.rar ，下载客户端
+>>>>>>> origin/master
 
 ![download](https://github.com/head-first/about-learning/blob/master/git%20using/image/4.png)
 
